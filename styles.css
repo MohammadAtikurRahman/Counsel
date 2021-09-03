@@ -1,0 +1,55 @@
+
+
+
+h1{
+
+    color: yellow;
+    /* margin-left: 300px; */
+    font-size: 31px;
+    font-family: Montserrat ;
+    display: inline-block;
+   
+}
+h5{
+
+  color: #ACACAC;
+
+
+}
+p {
+   color: white;
+    margin-left: 2px;  
+   font-size: 9px;
+    margin-top: -25px; 
+   font-family: Montserrat;
+
+   letter-spacing: 2px;
+ 
+ 
+    
+}
+
+.button1 {
+  background-color: #001C37;
+  border: none;
+  color: white;
+  padding:  5px 5px;
+  font-size: 10px;
+  margin: 30px 7px ;
+
+
+}
+
+.colourblue{
+
+  grid-column-start: 1;
+  grid-column-end: 3;
+  color: #001C37;
+  margin-left: 250px;
+  padding-top: 50px;
+  height: 400px;
+  font-family: Montserrat;
+
+
+
+}
