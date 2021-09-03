@@ -16,6 +16,7 @@ h5{
 
 
 }
+
 p {
    color: white;
     margin-left: 2px;  
@@ -47,9 +48,107 @@ p {
   color: #001C37;
   margin-left: 250px;
   padding-top: 50px;
-  height: 400px;
+  height: 300px;
   font-family: Montserrat;
 
 
 
+}
+.positionofbox{
+background-color: #F4F4F4;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  color: #001C37;
+  height: 500px;
+  margin-top: -115px;
+  /* margin-left: 250px;
+  padding-top: 50px;
+  height: 400px;
+  font-family: Montserrat; */
+}
+.positionofbox1{
+
+  grid-column-start: 1;
+  grid-column-end: 4;
+  color: #001C37;
+  height: 65px;
+  margin-top: -115px;
+  /* margin-left: 250px;
+  padding-top: 50px;
+  height: 400px;
+  font-family: Montserrat; */
+}
+.positionofbox2{
+
+  grid-column-start: 1;
+  grid-column-end: 4;
+  color: #001C37;
+  height: 550px;
+  margin-top: -115px;
+  /* margin-left: 250px;
+  padding-top: 50px;
+  height: 400px;
+  font-family: Montserrat; */
+}
+.positionofbox3{
+
+  grid-column-start: 1;
+  grid-column-end: 4;
+  color: #001C37;
+  height: 300px;
+  margin-top: 0px;
+  /* margin-left: 250px;
+  padding-top: 50px;
+  height: 400px;
+  font-family: Montserrat; */
+}
+.positionofbox4{
+
+  grid-column-start: 1;
+  grid-column-end: 4;
+  color: #001C37;
+  height: 500px;
+  margin-top: 0 px;
+  /* margin-left: 250px;
+  padding-top: 50px;
+  height: 400px;
+  font-family: Montserrat; */
+}
+
+.positionofbox5{
+
+  grid-column-start: 1;
+  grid-column-end: 4;
+  color: #001C37;
+  height: 370px;
+  margin-top: 0px;
+  /* margin-left: 250px;
+  padding-top: 50px;
+  height: 400px;
+  font-family: Montserrat; */
+}
+.positionofbox6{
+
+  grid-column-start: 1;
+  grid-column-end: 4;
+  color: #001C37;
+  height: 500px;
+  margin-top: 0 px;
+  /* margin-left: 250px;
+  padding-top: 50px;
+  height: 400px;
+  font-family: Montserrat; */
+}
+.positionofbox7{
+
+  grid-column-start: 1;
+  grid-column-end: 4;
+  color: #001C37;
+  height: 70px;
+  width: auto;
+  margin-top: 0px;
+  /* margin-left: 250px;
+  padding-top: 50px;
+  height: 400px;
+  font-family: Montserrat; */
 }
